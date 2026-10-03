@@ -98,4 +98,4 @@ request_routed, training_example_stored, fine_tune_started, fine_tune_completed,
 
 ## Kindex
 
-Apprentice captures discoveries, decisions, and distillation rationale in [Kindex](~/Code/kindex). Search before adding. Link related concepts.
+Apprentice captures discoveries, decisions, and distillation rationale in [Kindex](https://github.com/wandercom/kindex). Search before adding. Link related concepts.
